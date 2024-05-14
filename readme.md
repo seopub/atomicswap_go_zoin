@@ -20,9 +20,7 @@ External support exists for the following coins and wallets:
 * ThreeFold Token ([ThreeFold Chain](https://github.com/threefoldfoundation/tfchain))
 
 Pull requests implementing support for additional cryptocurrencies and wallets
-are encouraged.  See [GitHub project
-1](https://github.com/seopub/zoincommunity) for the status of coins
-being considered.  Implementing support for a new cryptocurrency provides atomic
+are encouraged.  Implementing support for a new cryptocurrency provides atomic
 swap compatibility between all current and future supported coins.
 
 These tools do not operate solely on-chain.  A side-channel is required between
