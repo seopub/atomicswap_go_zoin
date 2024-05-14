@@ -13,7 +13,7 @@ exists for the following coins and wallets:
 * Qtum ([Qtum Core](https://github.com/qtumproject/qtum))
 * Vertcoin ([Vertcoin Core](https://github.com/vertcoin/vertcoin))
 * Viacoin ([Viacoin Core](https://github.com/viacoin/viacoin))
-* Zcoin ([Zcoin Core]((https://github.com/seopub/zoincommunity))
+* Zcoin ([Zcoin Core](https://github.com/seopub/zoincommunity))
 
 External support exists for the following coins and wallets:
 
@@ -21,7 +21,7 @@ External support exists for the following coins and wallets:
 
 Pull requests implementing support for additional cryptocurrencies and wallets
 are encouraged.  See [GitHub project
-1](https://github.com/softbalanced/atomicswap/projects/1) for the status of coins
+1](https://github.com/seopub/zoincommunity) for the status of coins
 being considered.  Implementing support for a new cryptocurrency provides atomic
 swap compatibility between all current and future supported coins.
 
