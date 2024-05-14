@@ -104,7 +104,7 @@ to redeem their coins on the other blockchain before a refund can be performed.
 The image below provides a visual of the steps each party performs and the
 transfer of data between each party.
 
-<img src="workflow.svg" width="100%" height=650 />
+
 
 ## Command line
 
