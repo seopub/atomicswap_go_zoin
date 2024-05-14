@@ -42,12 +42,12 @@ Requires [Go 1.11](https://golang.org/dl/) or later
 
 - Clone atomicswap somewhere outside `$GOPATH`:
   ```
-  $ git clone https://github.com/softbalanced/atomicswap && cd atomicswap
+  $ git clone https://github.com/seopub/atomicswap_go_zoin/xzcatomicswap
   ```
 
 - To install a single tool:
   ```
-  $ cd cmd/balancedatomicswap && go install
+  $ go install
   ```
 
 ## Theory
